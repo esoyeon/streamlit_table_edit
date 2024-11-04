@@ -3,7 +3,7 @@
 Streamlit을 사용한 CSV 테이블 데이터 수정 예제 애플리케이션입니다.
 
 ## 데모
-실제 동작하는 예제는 다음 링크에서 확인할 수 있습니다:
+실제 동작하는 예제는 다음 링크에서 확인할 수 있습니다
 https://esoyeon-streamlit-table-edit-app-ogsp13.streamlit.app/
 
 ## 파일 구조
