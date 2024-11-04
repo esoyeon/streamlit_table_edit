@@ -2,6 +2,10 @@
 
 Streamlit을 사용한 CSV 테이블 데이터 수정 예제 애플리케이션입니다.
 
+## 데모
+실제 동작하는 예제는 다음 링크에서 확인할 수 있습니다:
+https://esoyeon-streamlit-table-edit-app-ogsp13.streamlit.app/
+
 ## 파일 구조
 - `app.py`: Streamlit 메인 애플리케이션
 - `generate_data.py`: 샘플 데이터 생성 스크립트
@@ -33,4 +37,4 @@ streamlit run app.py
 ## 주요 기능
 - CSV 파일의 테이블 데이터 조회
 - 데이터 수정 및 실시간 업데이트
-- 수정된 데이터 CSV 파일 저장# streamlit_table_edit
+- 수정된 데이터 CSV 파일 저장
